@@ -206,7 +206,7 @@ public class App {
                             break;
                         //from mi -> cm
                         case "cm":
-                            result = value*miToKm*1000*100;
+                            result = value*miToIn*inToCm;
                             System.out.printf("%.3f cm\n", result);
                             break;
                         //from mi -> in
