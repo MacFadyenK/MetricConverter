@@ -6,7 +6,7 @@ The program requires three different inputs; the starting unit, the ending unit,
 In order to exit the Metric Converter, the user must input -1 to the terminal.
 
 ## Implemented Conversions
-The Metric Converter currently supports 16 different conversions, using 4 different distance units, 2 weight units, and 2 volume units. If a the user input is currently not handled by the Metric Converter, they will be informed and prompted to enter a different value.
+The Metric Converter currently supports 16 different conversions, using 4 different distance units, 2 weight units, and 2 volume units. If the user input is currently not handled by the Metric Converter, they will be informed and prompted to enter a different value.
 
 ### Distance
 The distance conversions currently supported are:
